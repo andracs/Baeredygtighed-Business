@@ -1,4 +1,4 @@
-# En samling af materialer om bæredygtig digitalisering
+# En samling af opdaterede materialer om bæredygtig digitalisering
 
 * En liste med de bedste bæredygtighedssoftware i Europa på linket https://slashdot.org/software/sustainability/in-europe/?sort=rating_count
 
